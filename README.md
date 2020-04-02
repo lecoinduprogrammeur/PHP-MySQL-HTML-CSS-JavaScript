@@ -32,3 +32,5 @@ Pour le CSS : https://www.w3schools.com/w3css/
 dans le répertoire "www" d'Uniserver.
 
 + Dans ce dossier "site", installer le dossier "images" et "css" avec leurs fichiers
+
++ Via HeidiSQL, importer la base de données avec les mêmes propriétés de connexion présentes dans le fichier PHP relatif à la connexion.
